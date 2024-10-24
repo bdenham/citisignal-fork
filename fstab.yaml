@@ -1,5 +1,5 @@
 mountpoints:
-  /: https://adobe.sharepoint.com/:w:/r/sites/CitiSignal/Shared%20Documents/CitiSignal-Storefront
+  /: https://adobe.sharepoint.com/:f:/r/sites/storefront-site/Shared%20Documents/CitiSignal-Storefront
 
 folders:
   /products/plan/: /products/plan/default
